@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{ 
+    
+    background-color: black;
+    width: 100%;  
+    height: 99px; 
+    overflow: hidden; 
+    line-height:70%
+}
+a{
+    padding: 30px;
+    font-family: serif;
+}
+nav a:hover{
+    background:red;
+}
+.conta{
+    padding-top: 90px;
+}
+.title{
+    text-align: center;
+    padding-top:200px;
+    font-size: xx-large;
+    color:orangered;
+}
+a{
+    padding:50px;
+}

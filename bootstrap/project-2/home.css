@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to left,rgba(15,0,0,0.3),rgba(20,0,0,0.5)),
+    url('https://c.wallhere.com/photos/86/11/simple_simple_background_texture-218951.jpg!d');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{ 
+    
+    background-color: black;
+    width: 100%;  
+    
+    height: 99px; 
+    overflow: hidden; 
+    line-height:70%
+}
+.logo{
+    width:130px;
+    float:left;
+    height:80px;
+   
+}
+nav{
+    float: right;
+}
+a{
+    float: left;
+    padding: 30px;
+    font-family: serif;
+}
+nav a:hover{
+    background:red;
+}
+.pic{
+padding-top: 50px; 
+}
+.conta{
+    padding-top:70px;
+}
+.pagging{
+    padding-top: 50px;
+  }
